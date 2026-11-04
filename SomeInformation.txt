@@ -1,0 +1,20 @@
+     - some information -
+TWE1 (Tea World Engine version 1) is an microengine, made for creating games with C\C++
+Soon I maybe will create TWE2 for fully 2d windows games, but for now it just plans
+In future I will update TWE1 with my games, I already have some ideas...
+
+     - file discription -
+        TWE1.h --- game main engine with some functions
+    TeaWorld.h --- game other engine with some main game functions
+  TeaWorld.cpp --- copy of original game code, contains the main code
+ BestScore.txt --- save file for count of best score, it can be automaticly restored by program
+TotalScore.txt --- save file for total count of score, it can be automaticly restored by program
+  TeaWorld.exe --- main game executable file
+
+     - code description -
+I'm learning to code games without any game-creating engines.
+Btw the code of my game is kinda shity and it need to be redacted (I will change the main engine code later in other my games)
+
+
+
+                                                         - CyberLocked96
